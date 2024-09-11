@@ -8,8 +8,8 @@ interface CorrectSurnames {
 
 const correctSurnames: CorrectSurnames = {
 
-    fulanoBeltrano: {
-        message: 'Fulano,\n' +
+    Glaucia: {
+        message: 'Glaucia,\n' +
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit lorem ipsum dolor sit amet, consectetur adipiscing elit.lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     },
 
